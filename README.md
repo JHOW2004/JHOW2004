@@ -9,7 +9,7 @@
     alt="jhow2004"
   />
 </p>
-
+<br>
 <h3 align="left">Programming languages:</h3>
 
 <p align="left">
@@ -126,7 +126,7 @@
     />
   </a>
 </p>
-
+<br>
 <h3 align="left">Frameworks:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -314,7 +314,7 @@
     />
   </a>
 </p>
-
+<br>
 <h3 align="left">Databases:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -402,7 +402,7 @@
     />
   </a>
 </p>
-
+<br>
 <h3 align="left">Other Technologies:</h3>
 
 <p align="left">
@@ -555,7 +555,7 @@
     />
   </a>
 </p>
-
+<br>
 <img
   align="left"
   src="https://github-readme-stats.vercel.app/api/top-langs?username=jhow2004&show_icons=true&locale=en&layout=compact"
