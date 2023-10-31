@@ -127,7 +127,7 @@
   </a>
 </p>
 <br>
-<h3 align="left">Frameworks and libraries:</h3>
+<h3 align="left">Frameworks and Libraries:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
