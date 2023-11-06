@@ -317,14 +317,7 @@
 <br>
 <h3 align="left">Databases:</h3>
 <p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
-      alt="angularjs"
-      width="40"
-      height="40"
-    />
-  </a>
+  
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg"
@@ -406,14 +399,6 @@
 <h3 align="left">Other Technologies:</h3>
 
 <p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
-      alt="angularjs"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
