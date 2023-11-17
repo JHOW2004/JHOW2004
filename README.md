@@ -566,8 +566,7 @@
 
 ### To get in touch click the buttons below ✌🏾
 
-
-<div style="flex-direction: row; align-items: center"> 
+<div align="left">
   <a href="https://www.linkedin.com/in/jonathas-pereira-gon%C3%A7alves-abb045211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   <a href = "mailto:jonathaspereira673@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
