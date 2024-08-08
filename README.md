@@ -236,6 +236,14 @@
       height="40"
     />
   </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+      alt="pandas"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 <br>
 <h3 align="left">Databases:</h3>
@@ -401,6 +409,33 @@
     <img
       src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
       alt="selenium"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+    <img
+      src="https://docs.amplify.aws/assets/logo-dark.svg"
+      alt="amplify"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://heroku.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+      alt="heroku"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
       width="40"
       height="40"
     />
